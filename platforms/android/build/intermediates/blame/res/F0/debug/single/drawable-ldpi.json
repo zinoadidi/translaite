@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/search.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/background.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/favorites.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/favorites.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/settings.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/home.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/home.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/zinoadidi/nativescript/translaite/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/browse.png",
+        "source": "/home/zinoadidi/nativescript/translaite/platforms/android/src/main/res/drawable-ldpi/browse.png"
+    }
+]
